@@ -53,5 +53,4 @@ contract test_DataType{
        uint c=mm*2;
        return c;
    }
-   
 }
