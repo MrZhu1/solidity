@@ -32,3 +32,4 @@ contract first_SmartContract{
         return storedData;
     }
 }
+
