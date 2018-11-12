@@ -92,3 +92,4 @@ contract test_DataType3{
         return uint(defaultChoice);//强制类型转换  
     }
 }
+
