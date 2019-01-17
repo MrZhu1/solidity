@@ -1,3 +1,5 @@
-学习智能合约的solidity的课程
-主要是一些代码和经验总结
-Thanks
+Hello,
+I'm ZhuPeng,
+Welcome to my Github,
+It's  mainly a summary of some of the code and experience I learned about solidity of smart contracts.
+Thanks for your coming and you star.
